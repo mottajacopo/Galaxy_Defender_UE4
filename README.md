@@ -50,7 +50,7 @@ Le informazioni sul surriscaldamento e ricarica delle armi sono rappresentate ne
 
 <img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture5.png" width="800">
 
-_Figura 5 Player pawn  <br/><br/>   Barra della salute  <br/><br/>   Arma primaria e secondaria_
+_Figura 5 Player pawn ___ Barra della salute ___ Arma primaria e secondaria_
 
 Il giocatore può muoversi liberamente del campo di gioco e controlla l&#39;accelerazione dell&#39;astronave con i tasti WASD, mentre l&#39;orientamento è dettato dalla posizione del cursore del mouse che funziona da mirino.
 
@@ -64,7 +64,7 @@ Esistono tre tipi diversi di nemici nel gioco che spawnano ad oltranza man mano 
 
 <img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture6.png" width="800">
 
-_Figura 6 Enemy1     Enemy2     Enemy3_
+_Figura 6 Enemy1 ___ Enemy2 ___ Enemy3_
 
 # Asteroidi
 
@@ -72,7 +72,7 @@ Gli asteroidi attraversano il campo di gioco e provengono da qualsiasi direzione
 
 <img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture7.png" width="600">
 
-_Figura 7 Asteroidi     Capsula salute_
+_Figura 7 Asteroidi ___ Capsula salute_
 
 # Controlli
 
