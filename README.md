@@ -48,7 +48,7 @@ L&#39;astronave del giocatore possiede 2 armi:
 
 Le informazioni sul surriscaldamento e ricarica delle armi sono rappresentate nella UI.
 
-![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture5.png)
+<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture5.png" width="500">
 
 _Figura 5 Player pawn Barra della salute Arma primaria e secondaria_
 
@@ -62,7 +62,7 @@ Esistono tre tipi diversi di nemici nel gioco che spawnano ad oltranza man mano 
 - Il nemico2 spawna quando sono stati eliminati un tot di nemici (ogni multiplo di 5) e si muove verso la posizione del giocatore cercando di raggiungerlo per schiantarglisi contro. Man mano che si eliminano nemici c&#39;è una probabilità sempre più alta che spawnino un numero maggiore di nemici2 per volta.
 - Il nemico3 spawna quando sono stati eliminati un tot di nemici (ogni multiplo di 15) e si muove in maniera verticale lungo i muri laterali del campo di gioco, emettendo un raggio laser continuo che attraversa il campo di gioco in orizzontale. È il nemico con la salute maggiore.
 
-![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture6.png)
+<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture6.png" width="500">
 
 _Figura 6 Enemy1 Enemy2 Enemy3_
 
@@ -70,7 +70,7 @@ _Figura 6 Enemy1 Enemy2 Enemy3_
 
 Gli asteroidi attraversano il campo di gioco e provengono da qualsiasi direzione. Se colpiscono il giocatore infliggono danno. Il giocatore può decidere se distruggerli o schivarli. Quando vengono distrutti hanno una certa probabilità di droppare una capsula che se raccolta dal player ripristina parte della sua salute. Anche gli asteroidi una volta distrutti conferiscono un piccolo score.
 
-![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture7.png)
+<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture7.png" width="500">
 
 _Figura 7 Asteroidi Capsula salute_
 
@@ -78,32 +78,32 @@ _Figura 7 Asteroidi Capsula salute_
 
 Gli input al gioco avvengono tramite mouse e tastiera. Con i tasti WASD si controllano i movimenti del giocatore, mentre con il mouse se ne controlla l&#39;orientamento. Il tasto destro e sinistro del mouse servono per sparare. Il gioco può essere messo in pausa premendo il tasto P.
 
-![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture8.png)
+<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture8.png" width="500">
 
 _Figura 8 Controlli_
 
 # Menù e opzioni
 
-![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture9.png)
+<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture9.png" width="500">
 
 _Figura 9 Main menù_
 
-![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture10.png)
+<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture10.png" width="500">
 
 _Figura 10 Scoreboard_
 
-![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture11.png)
+<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture11.png" width="500">
 
 _Figura 11 Control_
 
-![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture12.png)
+<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture12.png" width="500">
 
 _Figura 12 Graphics settings_
 
-![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture13.png)
+<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture13.png" width="500">
 
 _Figura 13 Credits_
 
-![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture14.png)
+<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture14.png" width="500">
 
 _Figura 14 Pause menu_
