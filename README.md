@@ -7,7 +7,7 @@ Galaxy Defender è un gioco di sopravvivenza ambientato nello spazio, con visual
 
 # Game loop
 
-![](RackMultipart20210129-4-146ekxt_html_8709ff77e09f8d5f.png)
+![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture1.png)
 
 _Figura 1 Game Loop_
 
