@@ -50,7 +50,7 @@ Le informazioni sul surriscaldamento e ricarica delle armi sono rappresentate ne
 
 <img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture5.png" width="800">
 
-_Figura 5 Player pawn     Barra della salute     Arma primaria e secondaria_
+_Figura 5 Player pawn  <br/><br/>   Barra della salute  <br/><br/>   Arma primaria e secondaria_
 
 Il giocatore può muoversi liberamente del campo di gioco e controlla l&#39;accelerazione dell&#39;astronave con i tasti WASD, mentre l&#39;orientamento è dettato dalla posizione del cursore del mouse che funziona da mirino.
 
