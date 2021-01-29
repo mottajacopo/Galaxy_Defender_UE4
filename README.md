@@ -13,7 +13,7 @@ _Figura 1 Game Loop_
 
 # Concept map
 
-![](RackMultipart20210129-4-146ekxt_html_74112604afd3ed39.png)
+![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture2.png)
 
 _Figura 2 Concept Map_
 
@@ -25,7 +25,7 @@ Il campo di gioco è strutturato come un rettangolo con vista dall&#39;alto. Il 
 
 Nell&#39;interfaccia grafica del gioco sono indicate la salute corrente del giocatore, lo stato delle sue armi, il numero di nemici eliminati e il punteggio corrispondente.
 
-![](RackMultipart20210129-4-146ekxt_html_344bd3cefeee29b0.png)
+![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture3.png)
 
 _Figura 3 Screenshot dal gioco_
 
@@ -33,7 +33,7 @@ _Figura 3 Screenshot dal gioco_
 
 Tutte le mesh del gioco sono state realizzate utilizzando Tinkercad.
 
-![](RackMultipart20210129-4-146ekxt_html_5803b064af7c65be.png)
+![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture4.png)
 
 _Figura 4 Mesh_
 
@@ -48,7 +48,7 @@ L&#39;astronave del giocatore possiede 2 armi:
 
 Le informazioni sul surriscaldamento e ricarica delle armi sono rappresentate nella UI.
 
-![](RackMultipart20210129-4-146ekxt_html_b7a5608facba76b1.png) ![](RackMultipart20210129-4-146ekxt_html_344bd3cefeee29b0.png) ![](RackMultipart20210129-4-146ekxt_html_e77b05fe9b913cc8.png) ![](RackMultipart20210129-4-146ekxt_html_64d92040f96d6302.png)
+![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture5.png)
 
 _Figura 5 Player pawn Barra della salute Arma primaria e secondaria_
 
@@ -62,7 +62,7 @@ Esistono tre tipi diversi di nemici nel gioco che spawnano ad oltranza man mano 
 - Il nemico2 spawna quando sono stati eliminati un tot di nemici (ogni multiplo di 5) e si muove verso la posizione del giocatore cercando di raggiungerlo per schiantarglisi contro. Man mano che si eliminano nemici c&#39;è una probabilità sempre più alta che spawnino un numero maggiore di nemici2 per volta.
 - Il nemico3 spawna quando sono stati eliminati un tot di nemici (ogni multiplo di 15) e si muove in maniera verticale lungo i muri laterali del campo di gioco, emettendo un raggio laser continuo che attraversa il campo di gioco in orizzontale. È il nemico con la salute maggiore.
 
-![](RackMultipart20210129-4-146ekxt_html_9d71461642686e87.png) ![](RackMultipart20210129-4-146ekxt_html_2c4698250fbd871e.png) ![](RackMultipart20210129-4-146ekxt_html_d2114af729c7e7d.png)
+![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture6.png)
 
 _Figura 6 Enemy1 Enemy2 Enemy3_
 
@@ -70,7 +70,7 @@ _Figura 6 Enemy1 Enemy2 Enemy3_
 
 Gli asteroidi attraversano il campo di gioco e provengono da qualsiasi direzione. Se colpiscono il giocatore infliggono danno. Il giocatore può decidere se distruggerli o schivarli. Quando vengono distrutti hanno una certa probabilità di droppare una capsula che se raccolta dal player ripristina parte della sua salute. Anche gli asteroidi una volta distrutti conferiscono un piccolo score.
 
-![](RackMultipart20210129-4-146ekxt_html_47d5779cb071f5c2.png) ![](RackMultipart20210129-4-146ekxt_html_fe7d241802e545f6.png)
+![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture7.png)
 
 _Figura 7 Asteroidi Capsula salute_
 
@@ -78,32 +78,32 @@ _Figura 7 Asteroidi Capsula salute_
 
 Gli input al gioco avvengono tramite mouse e tastiera. Con i tasti WASD si controllano i movimenti del giocatore, mentre con il mouse se ne controlla l&#39;orientamento. Il tasto destro e sinistro del mouse servono per sparare. Il gioco può essere messo in pausa premendo il tasto P.
 
-![](RackMultipart20210129-4-146ekxt_html_985134e1a5632116.png)
+![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture8.png)
 
 _Figura 8 Controlli_
 
 # Menù e opzioni
 
-![](RackMultipart20210129-4-146ekxt_html_d105b6febe7efe36.png)
+![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture9.png)
 
 _Figura 9 Main menù_
 
-![](RackMultipart20210129-4-146ekxt_html_fb6d0197c5016e7e.png)
+![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture10.png)
 
 _Figura 10 Scoreboard_
 
-![](RackMultipart20210129-4-146ekxt_html_6850d1f8419d4ed6.png)
+![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture11.png)
 
 _Figura 11 Control_
 
-![](RackMultipart20210129-4-146ekxt_html_665dd006dae938f4.png)
+![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture12.png)
 
 _Figura 12 Graphics settings_
 
-![](RackMultipart20210129-4-146ekxt_html_a4cd4fe453cf545.png)
+![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture13.png)
 
 _Figura 13 Credits_
 
-![](RackMultipart20210129-4-146ekxt_html_e558a5b53bb9141.png)
+![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture14.png)
 
 _Figura 14 Pause menu_
