@@ -7,13 +7,13 @@ Galaxy Defender è un gioco di sopravvivenza ambientato nello spazio, con visual
 
 # Game loop
 
-![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture1.png)
+<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture1.png" width="500">
 
 _Figura 1 Game Loop_
 
 # Concept map
 
-![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture2.png)
+<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture2.png" width="500">
 
 _Figura 2 Concept Map_
 
@@ -25,7 +25,7 @@ Il campo di gioco è strutturato come un rettangolo con vista dall&#39;alto. Il 
 
 Nell&#39;interfaccia grafica del gioco sono indicate la salute corrente del giocatore, lo stato delle sue armi, il numero di nemici eliminati e il punteggio corrispondente.
 
-![](https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture3.png)
+<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture3.png" width="500">
 
 _Figura 3 Screenshot dal gioco_
 
@@ -33,7 +33,7 @@ _Figura 3 Screenshot dal gioco_
 
 Tutte le mesh del gioco sono state realizzate utilizzando Tinkercad.
 
-<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture3.png" width="500">
+<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture4.png" width="500">
 
 _Figura 4 Mesh_
 
