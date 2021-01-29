@@ -1,4 +1,4 @@
-# Galaxy Defender
+# Galaxy Defender ___ Game Pitch
 Motta Jacopo
 
 # Concept del giogo
