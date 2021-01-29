@@ -33,7 +33,7 @@ _Figura 3 Screenshot dal gioco_
 
 Tutte le mesh del gioco sono state realizzate utilizzando Tinkercad.
 
-<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture3.png" width="48">
+<img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture3.png" width="300">
 
 _Figura 4 Mesh_
 
