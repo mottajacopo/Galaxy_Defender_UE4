@@ -5,8 +5,9 @@
 Galaxy Defender è un gioco di sopravvivenza ambientato nello spazio, con visuale dall&#39;alto. Il giocatore controlla un&#39;astronave che è libera di muoversi liberamente nell&#39;area di gioco. Una serie di nemici inizierà a spawnare e il giocatore dovrà cercare di sopravvivere sparando. Il campo di gioco è anche attraversato da degli asteroidi. Il giocatore può decidere di evitarli oppure distruggerli per ottenere delle capsule che ripristinano la vita persa. Il gioco termina quando il giocatore termina la vita e il punteggio viene calcolato in base al numero di nemici eliminati.
 
 # Game loop
-
+<p align="center">
 <img src="https://github.com/mottajacopo/Galaxy_Defender_UE4/blob/master/Images/Picture1.png" width="300">
+<p/>
 
 _Figura 1 Game Loop_
 
