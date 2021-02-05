@@ -38,7 +38,7 @@ _Figura 4 Mesh_
 
 # Player
 
-Il giocatore controlla un pawn costituito dalla static mesh di un&#39;astronave e circondato da un box collider. Il pawn contiene anche dei &quot;scene component&quot; che indicano la posizione da cui saranno poi spawnati i proiettili che l&#39;astronave può sparare.
+Il giocatore controlla un’astronave in grado di muoversi e sparare in tutte le direzioni. 
 
 L&#39;astronave del giocatore possiede 2 armi:
 
